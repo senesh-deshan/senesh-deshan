@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=senesh-deshan&style=flat-square&color=40c463">
   <br><br><br>
   <a href="https://tarun-kamboj.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=20b2aa&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Senesh;An+XP+hunter+%F0%9F%98%8E">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&color=20b2aa&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Senesh;An+XP+hunter+%F0%9F%98%8E">
   </a>
   <br><br>
 </p>
