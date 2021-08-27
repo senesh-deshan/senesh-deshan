@@ -29,11 +29,14 @@
   
 </h1>
 
-
-## 🔥 Top repository
-<a href="https://github.com/senesh-deshan/Google-Hash-Code-2020"><img width="282" src="https://github.com/senesh-deshan/Google-Hash-Code-2020/raw/v3/Images/More%20Pizza.jpg" alt="Google-Hash-Code-2020"></a>
-
-
+<h1 align="center">
+  🔥 Top repositories
+</h1>
+<h1 align="center">
+<a href="https://github.com/senesh-deshan/Almariya-Shopping-Cart-Web"><img height="141" src="https://github.com/senesh-deshan/Almariya-Shopping-Cart-Web/raw/master/Banner.png" alt="Almariya-Shopping-Cart-Web"></a>
+<a href="https://github.com/senesh-deshan/Google-Hash-Code-2020"><img height="141" src="https://github.com/senesh-deshan/Google-Hash-Code-2020/raw/v3/Images/More%20Pizza.jpg" alt="Google-Hash-Code-2020"></a>
+<a href="https://github.com/senesh-deshan/Maze-Robot-Simulator"><img height="141" src="https://raw.githubusercontent.com/senesh-deshan/Maze-Robot-Simulator/master/images/repository-open-graph-template.jpg" alt="Maze-Robot-Simulator"></a>
+</h1>
 
 <!--
 **senesh-deshan/senesh-deshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
