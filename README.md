@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=senesh-deshan&style=flat-square&color=40c463">
   <br><br><br>
-  <a href="https://tarun-kamboj.github.io/">
+  <a href="https://senesh.tech/">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Indie+Flower&color=20b2aa&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Senesh;An+XP+hunter+%F0%9F%98%8E">
   </a>
   <br><br>
@@ -28,6 +28,8 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/o/profiles/users/~01cf16e481fea6043d/)
   
 </h1>
+
+[![@senesh_deshan's Holopin board](https://holopin.me/senesh_deshan)](https://holopin.io/@senesh_deshan)
 
 <h1 align="center">
   🔥 Top repositories
